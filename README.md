@@ -21,7 +21,7 @@ No meu tempo livre gosto de jogar com os amigos no PC.
 ## Conteúdo dos meus repositórios
 
 <div>
-  <a href="https://github.com/TheEdvard">
+  <a href="https://github.com/eduardocosta7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardocosta7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocosta7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
